@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    
+ border: 3px solid black;
+ display: flex;
+ width: 50%;
+
+}
+
+
+#colums{
+    border: solid 3px black
+}
+
+
+#div2{
+    border: 3px solid rgb(0, 0, 0);
+    display: inline;
+    
+}
+
+    
+
+
+
